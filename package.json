@@ -1,0 +1,29 @@
+{
+  "name": "react-api-calls",
+  "version": "1.0.0",
+  "description": "make cancellable api calls",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haakh/react-api-calls.git"
+  },
+  "keywords": [
+    "api",
+    "react",
+    "fetch",
+    "cancellable",
+    "api"
+  ],
+  "author": "bhavish hak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haakh/react-api-calls/issues"
+  },
+  "homepage": "https://github.com/Haakh/react-api-calls#readme",
+  "dependencies": {
+    "react": "^16.14.0"
+  }
+}
